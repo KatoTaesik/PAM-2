@@ -1,0 +1,6 @@
+<resources>
+    <string name="OtherApp">Cadastro</string>
+    <string name="txtNome">Digite seu Nome:</string>
+    <string name="txtNomeMsg">Nome</string>
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
